@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import page.GloHyperX2BeloZolotoyPage;
 
 
-public class MyGloTests {
+public class MyGloTest {
     private WebDriver driver;
 
     @BeforeMethod(alwaysRun = true)
